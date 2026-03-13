@@ -108,7 +108,7 @@ love_notifier_bot/
 
 ---
 
-## ❤️ NK
+## ❤️ NKVV69
 
 Создан с помощью Python 🐍 и Raspberry Pi 🍓  
 **Love Notifier Bot © 2025**
